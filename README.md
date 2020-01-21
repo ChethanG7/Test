@@ -1,2 +1,3 @@
 # Test
-I am learning how to commit the changes
+I #removed some part
+second pull request i am creating
